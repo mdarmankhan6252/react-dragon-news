@@ -1,0 +1,10 @@
+.breakingNewsBtn{
+   width: 150px;
+   height: 40px;
+   background-color: green;
+   clip-path: polygon(0% 0%, 100% 0, 82% 51%, 100% 100%, 0% 100%);
+   text-align: left;
+   padding: 8px ;
+   color: white;
+   cursor: pointer;
+}
